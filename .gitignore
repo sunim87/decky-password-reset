@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+*.zip
+release/
+dist/
+recovery-reset/
+reset-password.sh
+install-password-reset.sh
+SCRIPT-*.md
